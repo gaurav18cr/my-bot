@@ -1,0 +1,4 @@
+# please write this in the requirments.txt file
+
+streamlit
+openai
